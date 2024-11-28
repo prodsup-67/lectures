@@ -10,7 +10,14 @@
 # npm run html $folder
 # npm run pdf $folder
 
+# $folder = "public\lectures\T04 - HTTP POST"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "public\lectures\T04 - HTTP POST"
+$folder = "public\lectures\T05 - Attendance"
+npm run html $folder
+npm run pdf $folder
+
+$folder = "public\lectures\T06 - Telegram Notify"
 npm run html $folder
 npm run pdf $folder
