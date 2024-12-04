@@ -34,10 +34,22 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T20 - Context"
+$folder = "public\lectures\T11 - IoT Sensor"
 npm run html $folder
 npm run pdf $folder
 
-$folder = "public\lectures\T21 - Project"
+$folder = "public\lectures\T12 - Mobile Sensor"
 npm run html $folder
 npm run pdf $folder
+
+$folder = "public\lectures\T19 - ETC"
+npm run html $folder
+npm run pdf $folder
+
+# $folder = "public\lectures\T20 - Context"
+# npm run html $folder
+# npm run pdf $folder
+
+# $folder = "public\lectures\T21 - Project"
+# npm run html $folder
+# npm run pdf $folder

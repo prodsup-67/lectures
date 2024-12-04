@@ -26,8 +26,8 @@
       "id": "1760289687-6192449487739960",
       "name": "filemap.json",
       "parentId": "1760289687-2251799813814564",
-      "size": 55424,
-      "modDate": "2024-12-04T06:39:38.784Z",
+      "size": 56948,
+      "modDate": "2024-12-04T07:18:39.736Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\filemap\\filemap.json"
     },
     "1760289687-4222124650789202": {
@@ -45,6 +45,8 @@
         "1760289687-844424930263728",
         "1760289687-844424930263766",
         "1760289687-71494644084538220",
+        "1760289687-6473924467136872",
+        "1760289687-11540474048008868",
         "1760289687-844424930263812",
         "1760289687-844424930263785",
         "1760289687-844424930263821"
@@ -1068,17 +1070,89 @@
       "modDate": "2024-12-04T07:17:31.500Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T10 - Fake Sensor\\T10.pdf"
     },
+    "1760289687-6473924467136872": {
+      "id": "1760289687-6473924467136872",
+      "name": "T11 - IoT Sensor",
+      "isDir": true,
+      "childrenIds": [
+        "1760289687-6755399443927800",
+        "1760289687-13510798884983460",
+        "1760289687-5910974513795847"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - IoT Sensor",
+      "parentId": "1760289687-4222124650789202"
+    },
+    "1760289687-6755399443927800": {
+      "id": "1760289687-6755399443927800",
+      "name": "T11.html",
+      "parentId": "1760289687-6473924467136872",
+      "size": 102770,
+      "modDate": "2024-12-04T07:33:09.695Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - IoT Sensor\\T11.html"
+    },
+    "1760289687-13510798884983460": {
+      "id": "1760289687-13510798884983460",
+      "name": "T11.md",
+      "parentId": "1760289687-6473924467136872",
+      "size": 622,
+      "modDate": "2024-12-04T07:31:52.894Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - IoT Sensor\\T11.md"
+    },
+    "1760289687-5910974513795847": {
+      "id": "1760289687-5910974513795847",
+      "name": "T11.pdf",
+      "parentId": "1760289687-6473924467136872",
+      "size": 19325,
+      "modDate": "2024-12-04T07:33:12.706Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - IoT Sensor\\T11.pdf"
+    },
+    "1760289687-11540474048008868": {
+      "id": "1760289687-11540474048008868",
+      "name": "T12 - Mobile Sensor",
+      "isDir": true,
+      "childrenIds": [
+        "1760289687-5348024560473023",
+        "1760289687-5629499537085145",
+        "1760289687-8162774327579788"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T12 - Mobile Sensor",
+      "parentId": "1760289687-4222124650789202"
+    },
+    "1760289687-5348024560473023": {
+      "id": "1760289687-5348024560473023",
+      "name": "T12.html",
+      "parentId": "1760289687-11540474048008868",
+      "size": 102776,
+      "modDate": "2024-12-04T07:33:14.388Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T12 - Mobile Sensor\\T12.html"
+    },
+    "1760289687-5629499537085145": {
+      "id": "1760289687-5629499537085145",
+      "name": "T12.md",
+      "parentId": "1760289687-11540474048008868",
+      "size": 625,
+      "modDate": "2024-12-04T07:32:05.446Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T12 - Mobile Sensor\\T12.md"
+    },
+    "1760289687-8162774327579788": {
+      "id": "1760289687-8162774327579788",
+      "name": "T12.pdf",
+      "parentId": "1760289687-11540474048008868",
+      "size": 19463,
+      "modDate": "2024-12-04T07:33:17.380Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T12 - Mobile Sensor\\T12.pdf"
+    },
     "1760289687-844424930263812": {
       "id": "1760289687-844424930263812",
-      "name": "T11 - Etc",
+      "name": "T19 - ETC",
       "isDir": true,
       "childrenIds": [
         "1760289687-844424930263816",
-        "1760289687-844424930263813",
+        "1760289687-31243722415062010",
         "1760289687-844424930263814",
-        "1760289687-844424930263815"
+        "1760289687-12384898978140898"
       ],
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - Etc",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T19 - ETC",
       "parentId": "1760289687-4222124650789202"
     },
     "1760289687-844424930263816": {
@@ -1091,7 +1165,7 @@
         "1760289687-844424930263819",
         "1760289687-844424930263820"
       ],
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - Etc\\img",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T19 - ETC\\img",
       "parentId": "1760289687-844424930263812"
     },
     "1760289687-844424930263817": {
@@ -1100,7 +1174,7 @@
       "parentId": "1760289687-844424930263816",
       "size": 8919,
       "modDate": "2024-11-21T03:04:20.738Z",
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - Etc\\img\\c1_flow.png"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T19 - ETC\\img\\c1_flow.png"
     },
     "1760289687-844424930263818": {
       "id": "1760289687-844424930263818",
@@ -1108,7 +1182,7 @@
       "parentId": "1760289687-844424930263816",
       "size": 25410,
       "modDate": "2024-11-21T03:04:20.739Z",
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - Etc\\img\\c1_line.png"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T19 - ETC\\img\\c1_line.png"
     },
     "1760289687-844424930263819": {
       "id": "1760289687-844424930263819",
@@ -1116,7 +1190,7 @@
       "parentId": "1760289687-844424930263816",
       "size": 116429,
       "modDate": "2024-11-21T03:04:20.739Z",
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - Etc\\img\\light.jpg"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T19 - ETC\\img\\light.jpg"
     },
     "1760289687-844424930263820": {
       "id": "1760289687-844424930263820",
@@ -1124,31 +1198,31 @@
       "parentId": "1760289687-844424930263816",
       "size": 145720,
       "modDate": "2024-11-21T03:04:20.740Z",
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - Etc\\img\\tof.jpg"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T19 - ETC\\img\\tof.jpg"
     },
-    "1760289687-844424930263813": {
-      "id": "1760289687-844424930263813",
-      "name": "T11.html",
+    "1760289687-31243722415062010": {
+      "id": "1760289687-31243722415062010",
+      "name": "T19.html",
       "parentId": "1760289687-844424930263812",
-      "size": 112031,
-      "modDate": "2024-11-21T03:04:20.736Z",
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - Etc\\T11.html"
+      "size": 117716,
+      "modDate": "2024-12-04T07:33:19.223Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T19 - ETC\\T19.html"
     },
     "1760289687-844424930263814": {
       "id": "1760289687-844424930263814",
-      "name": "T11.md",
+      "name": "T19.md",
       "parentId": "1760289687-844424930263812",
       "size": 2334,
       "modDate": "2024-11-21T03:04:20.736Z",
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - Etc\\T11.md"
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T19 - ETC\\T19.md"
     },
-    "1760289687-844424930263815": {
-      "id": "1760289687-844424930263815",
-      "name": "T11.pdf",
+    "1760289687-12384898978140898": {
+      "id": "1760289687-12384898978140898",
+      "name": "T19.pdf",
       "parentId": "1760289687-844424930263812",
-      "size": 376018,
-      "modDate": "2024-11-21T03:04:20.738Z",
-      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T11 - Etc\\T11.pdf"
+      "size": 440633,
+      "modDate": "2024-12-04T07:33:22.590Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup\\lectures\\public\\lectures\\T19 - ETC\\T19.pdf"
     },
     "1760289687-844424930263785": {
       "id": "1760289687-844424930263785",
