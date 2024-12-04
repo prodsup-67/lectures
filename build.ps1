@@ -14,10 +14,14 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T05 - Attendance"
-npm run html $folder
-npm run pdf $folder
+# $folder = "public\lectures\T05 - Attendance"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "public\lectures\T06 - Telegram Notify"
+# $folder = "public\lectures\T06 - Telegram Notify"
+# npm run html $folder
+# npm run pdf $folder
+
+$folder = "public\lectures\T08 - Dashboard"
 npm run html $folder
 npm run pdf $folder
