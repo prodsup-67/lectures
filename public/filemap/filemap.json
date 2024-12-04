@@ -27,7 +27,7 @@
       "name": "filemap.json",
       "parentId": "1555096605-29554872554740024",
       "size": 61167,
-      "modDate": "2024-12-04T13:13:38.370Z",
+      "modDate": "2024-12-04T13:38:14.157Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\filemap\\filemap.json"
     },
     "1555096605-12666373952100820": {
@@ -1111,6 +1111,7 @@
       "name": "T12 - Mobile Sensor",
       "isDir": true,
       "childrenIds": [
+        "1555096605-3096224745206746",
         "1555096605-3659174697521305",
         "1555096605-2814749767389354",
         "1555096605-2814749767389362"
@@ -1118,28 +1119,73 @@
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T12 - Mobile Sensor",
       "parentId": "1555096605-12666373952100820"
     },
+    "1555096605-3096224745206746": {
+      "id": "1555096605-3096224745206746",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-11258999068650572",
+        "1555096605-5066549582214681",
+        "1555096605-17451448557624636",
+        "1555096605-6473924465912342"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T12 - Mobile Sensor\\img",
+      "parentId": "1555096605-3377699720810321"
+    },
+    "1555096605-11258999068650572": {
+      "id": "1555096605-11258999068650572",
+      "name": "flow1.png",
+      "parentId": "1555096605-3096224745206746",
+      "size": 17432,
+      "modDate": "2024-12-04T15:34:03.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T12 - Mobile Sensor\\img\\flow1.png"
+    },
+    "1555096605-5066549582214681": {
+      "id": "1555096605-5066549582214681",
+      "name": "flow2.png",
+      "parentId": "1555096605-3096224745206746",
+      "size": 28990,
+      "modDate": "2024-12-04T15:34:21.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T12 - Mobile Sensor\\img\\flow2.png"
+    },
+    "1555096605-17451448557624636": {
+      "id": "1555096605-17451448557624636",
+      "name": "flow3.png",
+      "parentId": "1555096605-3096224745206746",
+      "size": 18047,
+      "modDate": "2024-12-04T15:34:46.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T12 - Mobile Sensor\\img\\flow3.png"
+    },
+    "1555096605-6473924465912342": {
+      "id": "1555096605-6473924465912342",
+      "name": "flow4.png",
+      "parentId": "1555096605-3096224745206746",
+      "size": 18673,
+      "modDate": "2024-12-04T15:39:52.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T12 - Mobile Sensor\\img\\flow4.png"
+    },
     "1555096605-3659174697521305": {
       "id": "1555096605-3659174697521305",
       "name": "T12.html",
       "parentId": "1555096605-3377699720810321",
-      "size": 109218,
-      "modDate": "2024-12-04T13:38:05.526Z",
+      "size": 116120,
+      "modDate": "2024-12-04T15:43:27.702Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T12 - Mobile Sensor\\T12.html"
     },
     "1555096605-2814749767389354": {
       "id": "1555096605-2814749767389354",
       "name": "T12.md",
       "parentId": "1555096605-3377699720810321",
-      "size": 1573,
-      "modDate": "2024-12-04T13:37:57.201Z",
+      "size": 2653,
+      "modDate": "2024-12-04T15:42:38.920Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T12 - Mobile Sensor\\T12.md"
     },
     "1555096605-2814749767389362": {
       "id": "1555096605-2814749767389362",
       "name": "T12.pdf",
       "parentId": "1555096605-3377699720810321",
-      "size": 99151,
-      "modDate": "2024-12-04T13:38:09.790Z",
+      "size": 231391,
+      "modDate": "2024-12-04T15:43:32.233Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T12 - Mobile Sensor\\T12.pdf"
     },
     "1555096605-1970324837257396": {
