@@ -78,7 +78,7 @@
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js">flow.<span class="hljs-title function_">set</span>(<span class="hljs-string">&quot;value&quot;</span>, msg.<span class="hljs-property">payload</span>);
 </code></pre>
 <h3 id="get-flow-value-node"><code>Get Flow Value</code> node</h3>
-<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js"><span class="hljs-keyword">const</span> value = flow.<span class="hljs-title function_">get</span>(<span class="hljs-string">&quot;value&quot;</span>) || <span class="hljs-number">0</span>;
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js"><span class="hljs-keyword">const</span> value = flow.<span class="hljs-title function_">get</span>(<span class="hljs-string">&quot;value&quot;</span>) ?? <span class="hljs-number">0</span>;
 msg.<span class="hljs-property">payload</span> = value;
 <span class="hljs-keyword">return</span> msg;
 </code></pre>
@@ -107,7 +107,7 @@ msg.<span class="hljs-property">payload</span> = value;
 </section>
 </foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section data-class="invert" data-paginate="true" data-footer="255411: Information Technologies for Industrial Engineers" data-theme="default" lang="en-US" class="invert" data-marpit-pagination="16" style="" data-marpit-pagination-total="25" data-marpit-advanced-background="pseudo" data-marpit-advanced-background-split="right"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17" data-class="invert" data-paginate="true" data-footer="255411: Information Technologies for Industrial Engineers" data-theme="default" lang="en-US" class="invert" data-marpit-pagination="17" style="--class:invert;--paginate:true;--footer:255411: Information Technologies for Industrial Engineers;--theme:default;" data-marpit-pagination-total="25">
 <h1 id="set-counter-function-node"><code>Set Counter</code> (Function) node</h1>
-<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js"><span class="hljs-keyword">const</span> curCounter = flow.<span class="hljs-title function_">get</span>(<span class="hljs-string">&quot;counter&quot;</span>) || <span class="hljs-number">0</span>;
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js"><span class="hljs-keyword">const</span> curCounter = flow.<span class="hljs-title function_">get</span>(<span class="hljs-string">&quot;counter&quot;</span>) ?? <span class="hljs-number">0</span>;
 flow.<span class="hljs-title function_">set</span>(<span class="hljs-string">&quot;counter&quot;</span>, curCounter + <span class="hljs-number">1</span>);
 msg.<span class="hljs-property">payload</span> = curCounter + <span class="hljs-number">1</span>;
 <span class="hljs-keyword">return</span> msg;
@@ -144,7 +144,7 @@ msg.<span class="hljs-property">payload</span> = curCounter + <span class="hljs-
 <ul>
 <li>Actual</li>
 </ul>
-<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js"><span class="hljs-keyword">const</span> status = flow.<span class="hljs-title function_">get</span>(<span class="hljs-string">&quot;status&quot;</span>) || <span class="hljs-string">&quot;OFF&quot;</span>;
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js"><span class="hljs-keyword">const</span> status = flow.<span class="hljs-title function_">get</span>(<span class="hljs-string">&quot;status&quot;</span>) ?? <span class="hljs-string">&quot;OFF&quot;</span>;
 <span class="hljs-keyword">if</span> (status === <span class="hljs-string">&quot;ON&quot;</span>) {
   msg.<span class="hljs-property">payload</span> = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">random</span>();
   <span class="hljs-keyword">return</span> msg;
