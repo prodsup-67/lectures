@@ -50,10 +50,10 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T22 - Machine Learning"
-npm run html $folder
-npm run pdf $folder
-
-# $folder = "public\lectures\T31 - Project"
+# $folder = "public\lectures\T22 - Machine Learning"
 # npm run html $folder
 # npm run pdf $folder
+
+$folder = "public\lectures\T31 - Project"
+npm run html $folder
+npm run pdf $folder

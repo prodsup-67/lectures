@@ -5,6 +5,8 @@ const youtubeURL_S003 =
   "https://www.youtube.com/playlist?list=PLNGLpHQhvGrvUJ4ddNRL8VjVbdUPdAjTQ";
 const youtubeURL_S006 =
   "https://www.youtube.com/playlist?list=PLNGLpHQhvGrthL1FV0OZIUQw_yZpv8Rkv";
+const yourtubeURL_project =
+  "https://www.youtube.com/playlist?list=PLNGLpHQhvGrtqn6UYxUYXm7C0auAYrh_O";
 function App() {
   useData();
   return (
@@ -27,6 +29,13 @@ function App() {
             className="border px-2 py-1 rounded-lg bg-red-600 text-white text-sm lg:text-lg font-bold"
           >
             VDO (Sec 006)
+          </a>
+          <a
+            href={yourtubeURL_project}
+            target="_blank"
+            className="border px-2 py-1 rounded-lg bg-purple-600 text-white text-sm lg:text-lg font-bold"
+          >
+            Project
           </a>
         </div>
       </div>
