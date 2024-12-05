@@ -26,8 +26,8 @@
       "id": "1555096605-7881299348019662",
       "name": "filemap.json",
       "parentId": "1555096605-29554872554740024",
-      "size": 63093,
-      "modDate": "2024-12-04T15:43:34.262Z",
+      "size": 65024,
+      "modDate": "2024-12-04T23:59:58.271Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\filemap\\filemap.json"
     },
     "1555096605-12666373952100820": {
@@ -1457,6 +1457,7 @@
       "name": "T22 - Machine Learning",
       "isDir": true,
       "childrenIds": [
+        "1555096605-13510798882260632",
         "1555096605-1688849861859996",
         "1555096605-13792273860244984",
         "1555096605-2251799815281318"
@@ -1464,28 +1465,91 @@
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning",
       "parentId": "1555096605-12666373952100820"
     },
+    "1555096605-13510798882260632": {
+      "id": "1555096605-13510798882260632",
+      "name": "img",
+      "isDir": true,
+      "childrenIds": [
+        "1555096605-12666373952203368",
+        "1555096605-5910974511147875",
+        "1555096605-5629499534437412",
+        "1555096605-6192449487858718",
+        "1555096605-15762598696020994",
+        "1555096605-11821949022071850"
+      ],
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\img",
+      "parentId": "1555096605-16607023627520860"
+    },
+    "1555096605-12666373952203368": {
+      "id": "1555096605-12666373952203368",
+      "name": "input_flow.png",
+      "parentId": "1555096605-13510798882260632",
+      "size": 118052,
+      "modDate": "2024-12-05T00:31:24.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\img\\input_flow.png"
+    },
+    "1555096605-5910974511147875": {
+      "id": "1555096605-5910974511147875",
+      "name": "input_node_image.png",
+      "parentId": "1555096605-13510798882260632",
+      "size": 115216,
+      "modDate": "2024-12-05T00:34:42.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\img\\input_node_image.png"
+    },
+    "1555096605-5629499534437412": {
+      "id": "1555096605-5629499534437412",
+      "name": "input_node_resize.png",
+      "parentId": "1555096605-13510798882260632",
+      "size": 75479,
+      "modDate": "2024-12-05T00:36:00.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\img\\input_node_resize.png"
+    },
+    "1555096605-6192449487858718": {
+      "id": "1555096605-6192449487858718",
+      "name": "input_node_set_capture.png",
+      "parentId": "1555096605-13510798882260632",
+      "size": 96575,
+      "modDate": "2024-12-05T00:33:21.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\img\\input_node_set_capture.png"
+    },
+    "1555096605-15762598696020994": {
+      "id": "1555096605-15762598696020994",
+      "name": "input_node_set_width.png",
+      "parentId": "1555096605-13510798882260632",
+      "size": 48623,
+      "modDate": "2024-12-05T00:33:58.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\img\\input_node_set_width.png"
+    },
+    "1555096605-11821949022071850": {
+      "id": "1555096605-11821949022071850",
+      "name": "process_flow.png",
+      "parentId": "1555096605-13510798882260632",
+      "size": 30144,
+      "modDate": "2024-12-05T00:44:29.000Z",
+      "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\img\\process_flow.png"
+    },
     "1555096605-1688849861859996": {
       "id": "1555096605-1688849861859996",
       "name": "T22.html",
       "parentId": "1555096605-16607023627520860",
-      "size": 102734,
-      "modDate": "2024-12-04T23:59:38.239Z",
+      "size": 107064,
+      "modDate": "2024-12-05T01:30:48.190Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\T22.html"
     },
     "1555096605-13792273860244984": {
       "id": "1555096605-13792273860244984",
       "name": "T22.md",
       "parentId": "1555096605-16607023627520860",
-      "size": 606,
-      "modDate": "2024-12-04T23:58:24.783Z",
+      "size": 1214,
+      "modDate": "2024-12-05T01:30:10.826Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\T22.md"
     },
     "1555096605-2251799815281318": {
       "id": "1555096605-2251799815281318",
       "name": "T22.pdf",
       "parentId": "1555096605-16607023627520860",
-      "size": 19094,
-      "modDate": "2024-12-04T23:59:43.150Z",
+      "size": 442577,
+      "modDate": "2024-12-05T01:30:53.322Z",
       "fullPath": "C:\\Users\\nnnpo\\Coding\\prodsup-67\\lectures\\public\\lectures\\T22 - Machine Learning\\T22.pdf"
     },
     "1555096605-1407374883837302": {
