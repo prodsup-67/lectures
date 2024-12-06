@@ -38,13 +38,13 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T12 - Context"
-npm run html $folder
-npm run pdf $folder
-
-# $folder = "public\lectures\T13 - ETC"
+# $folder = "public\lectures\T12 - Context"
 # npm run html $folder
 # npm run pdf $folder
+
+$folder = "public\lectures\T13 - ETC"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "public\lectures\T21 - Mobile Sensor"
 # npm run html $folder
