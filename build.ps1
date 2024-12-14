@@ -34,9 +34,9 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T11 - IoT Sensor"
-npm run html $folder
-npm run pdf $folder
+# $folder = "public\lectures\T11 - IoT Sensor"
+# npm run html $folder
+# npm run pdf $folder
 
 # $folder = "public\lectures\T12 - Context"
 # npm run html $folder
@@ -50,9 +50,13 @@ npm run pdf $folder
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "public\lectures\T22 - Machine Learning"
-# npm run html $folder
-# npm run pdf $folder
+$folder = "public\lectures\T22 - Machine Learning (Image Classification)"
+npm run html $folder
+npm run pdf $folder
+
+$folder = "public\lectures\T23 - Machine Learning (Object Detection)"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "public\lectures\T31 - Project"
 # npm run html $folder
