@@ -6,9 +6,9 @@
 # npm run html $folder
 # npm run pdf $folder
 
-# $folder = "public\lectures\T03 - HTTP GET"
-# npm run html $folder
-# npm run pdf $folder
+$folder = "public\lectures\T03 - HTTP GET"
+npm run html $folder
+npm run pdf $folder
 
 # $folder = "public\lectures\T04 - HTTP POST"
 # npm run html $folder
@@ -50,13 +50,13 @@
 # npm run html $folder
 # npm run pdf $folder
 
-$folder = "public\lectures\T22 - Machine Learning (Image Classification)"
-npm run html $folder
-npm run pdf $folder
+# $folder = "public\lectures\T22 - Machine Learning (Image Classification)"
+# npm run html $folder
+# npm run pdf $folder
 
-$folder = "public\lectures\T23 - Machine Learning (Object Detection)"
-npm run html $folder
-npm run pdf $folder
+# $folder = "public\lectures\T23 - Machine Learning (Object Detection)"
+# npm run html $folder
+# npm run pdf $folder
 
 # $folder = "public\lectures\T31 - Project"
 # npm run html $folder
