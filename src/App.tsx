@@ -7,7 +7,7 @@ const youtubeURL_S006 =
   "https://www.youtube.com/playlist?list=PLNGLpHQhvGrthL1FV0OZIUQw_yZpv8Rkv";
 const youtubeURL_S001 =
   "https://youtube.com/playlist?list=PLNGLpHQhvGrtGIPj6MzHepMhwr8KuQ5VZ&si=gUOXeBr_a4Bjs-cw";
-const youtubeURL_S005 =
+const youtubeURL_S004 =
   "https://youtube.com/playlist?list=PLNGLpHQhvGrvKecKTi5o0kjLaYbUOZIjF&si=_Egf8nVoaZOSKs0s";
 const yourtubeURL_project =
   "https://www.youtube.com/playlist?list=PLNGLpHQhvGrtqn6UYxUYXm7C0auAYrh_O";
@@ -28,11 +28,11 @@ function App() {
             VDO (Sec 001)
           </a>
           <a
-            href={youtubeURL_S005}
+            href={youtubeURL_S004}
             target="_blank"
             className="border px-2 py-1 rounded-lg bg-red-600 text-white text-sm lg:text-lg font-bold"
           >
-            VDO (Sec 005)
+            VDO (Sec 004)
           </a>
           <a
             href={youtubeURL_S003}
