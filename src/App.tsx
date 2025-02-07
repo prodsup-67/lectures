@@ -1,6 +1,10 @@
 import FileBrowser from "./components/FileBrowser";
 import useData from "./lib/useData";
 
+const youtubeURL_S002 =
+  "https://www.youtube.com/playlist?list=PLNGLpHQhvGrtwKBzterFIuc9doxy_sSbv";
+const youtubeURL_S005 =
+  "https://www.youtube.com/playlist?list=PLNGLpHQhvGrtQ1pMLTyoI4uqj8VY3jM41";
 const youtubeURL_S003 =
   "https://www.youtube.com/playlist?list=PLNGLpHQhvGrvUJ4ddNRL8VjVbdUPdAjTQ";
 const youtubeURL_S006 =
@@ -20,6 +24,20 @@ function App() {
           Prodsup 67
         </div>
         <div className="flex gap-2">
+          <a
+            href={youtubeURL_S002}
+            target="_blank"
+            className="border px-2 py-1 rounded-lg bg-red-600 text-white text-sm lg:text-lg font-bold"
+          >
+            VDO (Sec 002)
+          </a>
+          <a
+            href={youtubeURL_S005}
+            target="_blank"
+            className="border px-2 py-1 rounded-lg bg-red-600 text-white text-sm lg:text-lg font-bold"
+          >
+            VDO (Sec 005)
+          </a>
           <a
             href={youtubeURL_S001}
             target="_blank"
